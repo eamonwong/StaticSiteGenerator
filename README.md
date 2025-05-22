@@ -25,7 +25,7 @@ A Python-powered tool that converts Markdown files into professional HTML pages 
 
 # JSON Configuration
 Edit config.json to customize your site:
-
+```bash
 json
 {
   "title": "My Portfolio",
@@ -33,6 +33,7 @@ json
   "author": "Your Name",
   "code_link": "https://github.com/your-repo"
 }
+```
 
 # Why You’ll Love It
 - Zero rebuilds needed: Portfolio updates appear automatically
