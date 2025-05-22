@@ -14,12 +14,14 @@ A Python-powered tool that converts Markdown files into professional HTML pages 
 - GitHub Pages: Hosting for live portfolio updates
 
 # File Structure
+```bash
 .
 ├── script.py          # Main generator script  
 ├── layout.html        # Jinja2 template (with iframe)  
 ├── article.md         # Your Markdown content  
 ├── config.json        # Site configuration  
-└── index.html         # Generated output (auto-created)  
+└── index.html         # Generated output (auto-created)
+```
 
 # JSON Configuration
 Edit config.json to customize your site:
