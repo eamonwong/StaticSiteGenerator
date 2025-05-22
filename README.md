@@ -46,3 +46,7 @@ I wanted a minimalist way to:
 - Practice Python file manipulation and templating
 - Create something useful in <100 lines of code
 
+https://github.com/user-attachments/assets/6235bfb7-212d-4560-bb22-a289b7f149bb
+
+
+
