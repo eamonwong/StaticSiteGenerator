@@ -35,11 +35,6 @@ json
 }
 ```
 
-# Why You’ll Love It
-- Zero rebuilds needed: Portfolio updates appear automatically
-- Write in Markdown: Focus on content, not HTML tags
-- Deploy anywhere: Works with GitHub Pages, Netlify, etc.
-
 # Why I Built This
 I wanted a minimalist way to:
 - Showcase my portfolio with always-fresh content
@@ -47,6 +42,16 @@ I wanted a minimalist way to:
 - Create something useful in <100 lines of code
 
 https://github.com/user-attachments/assets/6235bfb7-212d-4560-bb22-a289b7f149bb
+
+# Why You’ll Love It
+- **Zero rebuilds needed**: Portfolio updates appear automatically (new portfolio below)
+  *(Tested live: Changes to my GitHub Pages portfolio propagated instantly!)* 
+- Write in Markdown: Focus on content, not HTML tags
+- Deploy anywhere: Works with GitHub Pages, Netlify, etc.
+
+
+https://github.com/user-attachments/assets/153c578b-27f7-45b5-ba08-6098bc3cf091
+
 
 
 
